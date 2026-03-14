@@ -34,6 +34,9 @@ The backend server will start (default is typically `http://localhost:5000`).
 #### 2. Frontend Setup
 In a new terminal, navigate to the `frontend` directory, install Node modules, and start the development server:
 ```bash
+
+
+...................................................................................................................................................................
 cd frontend
 npm install
 npm run dev
