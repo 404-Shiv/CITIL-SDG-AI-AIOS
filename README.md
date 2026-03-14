@@ -36,9 +36,15 @@ In a new terminal, navigate to the `frontend` directory, install Node modules, a
 ```bash
 
 
-...................................................................................................................................................................
 cd frontend
 npm install
 npm run dev
+
+
+
+
+
+
+___________________________________________________________________________________________________________________________________________________________________
 ```
 The frontend will be available at the URL provided by Vite (usually `http://localhost:5173`).
